@@ -1,6 +1,6 @@
 ## Wassup
 
-Despite the shorter description i do actually enjoy learning and coding c++ and learning about systems programming (im not a larper)
+I learn languages based on how cool the projects sound and how much aura they have
 <!--
 **wangwang-larper/wangwang-larper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
