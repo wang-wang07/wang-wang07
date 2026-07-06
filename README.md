@@ -1,6 +1,6 @@
 ## Wassup
 
-I learn languages based on how cool the projects sound and how much aura they have
+I hope im doing this github stuff right
 <!--
 **wangwang-larper/wangwang-larper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
